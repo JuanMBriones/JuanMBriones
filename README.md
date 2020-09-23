@@ -1,6 +1,11 @@
 ### Hello there!  👋
+![Banner](https://github.com/JuanMBriones/JuanMBriones/blob/master/src/images/BannerGit.png)
 
-!
+- 🔭 I’m currently studying Computer Science
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Linux
+- 💬 Ask me about everything
+- 📫 How to reach me: JuanMBriones@outlook.com
 
 <!--
 **JuanMBriones/JuanMBriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
