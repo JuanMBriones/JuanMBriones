@@ -1,12 +1,14 @@
 ### Hello there!  👋
 ![Banner](https://github.com/JuanMBriones/JuanMBriones/blob/master/src/images/BannerGit.png)
 
-- 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Linux
+- 🔭 I’m currently studying Computer Science at ITESM Campus Monterrey
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on TensorFlow
 - 💬 Ask me about everything
 - 📫 How to reach me: JuanMBriones@outlook.com
+- ⚡ Fun fact: I'm an adictive learner, literally when I like something I learn everything about it, if it's a problem I always try to solve it over and over until I have done it
 
+FEEL free to see my projects! 😄
 <!--
 **JuanMBriones/JuanMBriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
